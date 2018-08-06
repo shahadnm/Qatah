@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Qatah</string>
+    <string name="username_error">"User Name Error</string>
+    <string name="buttonText">Click Me!</string>
 </resources>
